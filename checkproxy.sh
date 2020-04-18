@@ -10,7 +10,8 @@ clear
 
 function banner(){
 
-		echo -e "\t${p}_________________________"		echo -e "\t${h}  SCANNING PROXY"
+		echo -e "\t${p}_________________________"		
+		echo -e "\t${h}  SCANNING PROXY"
 
 		echo -e "\t${p}   Author${m}: ${p}Mr.R "
 
